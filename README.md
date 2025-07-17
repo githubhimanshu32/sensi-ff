@@ -13,7 +13,7 @@
 ✔ **Sem Root Necessário** – Funciona em todos Android  
 
 ## 📥 Como Instalar  
-1. Acesse **[sensiff.pro](https://sensiff.pro)** e baixe o APK  
+1. Acesse **[sensiff.pro](https://sensiff.pro)** 
 2. Ative "Fontes Desconhecidas" nas configurações  
 3. Ajuste a sensibilidade recomendada  
 4. **Domine no Modo Ranqueado!**  
@@ -24,8 +24,7 @@
 - Não garantimos 100% de proteção contra bans  
 
 ## 🔗 Links Úteis  
-🌐 **[Site Oficial](https://sensiff.pro)**  
-📢 **[Canal no Telegram](https://t.me/seucanal)** *(Adicione se tiver)*  
+🌐 **[Site Oficial](https://sensiff.pro)**   
 📩 **Suporte**: [emailhiimanfitness@gmail.com](hiimanfitness@gmail.com)  
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7qBakFexQTQSp1NkfTsVJQAgfuMxz_R4NxatVN-DalaflT8Cx0KjHFcrh5ztOxWy2NmPJoWQzck5nG77SQTQ1Uvigt839ux5LHeWAimRPY3xqd_RqUg_OjmFKBgY5oTBRy6VV4xmICIiyk19eV9ux3PCOPD9wumLkAfnxmEnAbOUdRCCBrJjyMi86bU/w640-h400/Sensi-ff-Headshot.webp">
 ## 💡 Por Que Escolher Nosso Tool?  
@@ -33,7 +32,7 @@
 ✅ **Atualizações diárias** contra patches da Garena  
 ✅ **Interface simples** com presets para iniciantes  
 
-📌 **Dica Pro**: Combine com **[Configurações de Gyro](https://sensiff.pro#gyro)** para melhor desempenho!  
+📌 **Dica Pro**: Combine com **[Configurações de Gyro](https://sensiff.pro)** para melhor desempenho!  
 
 ---
 *⚠️ Aviso Legal: Projeto apenas para fins educativos. Não promovemos trapaças no Free Fire.*

@@ -27,7 +27,7 @@
 🌐 **[Site Oficial](https://sensiff.pro)**  
 📢 **[Canal no Telegram](https://t.me/seucanal)** *(Adicione se tiver)*  
 📩 **Suporte**: [emailhiimanfitness@gmail.com](hiimanfitness@gmail.com)  
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7qBakFexQTQSp1NkfTsVJQAgfuMxz_R4NxatVN-DalaflT8Cx0KjHFcrh5ztOxWy2NmPJoWQzck5nG77SQTQ1Uvigt839ux5LHeWAimRPY3xqd_RqUg_OjmFKBgY5oTBRy6VV4xmICIiyk19eV9ux3PCOPD9wumLkAfnxmEnAbOUdRCCBrJjyMi86bU/w640-h400/Sensi-ff-Headshot.webp"/ style="width:100%;height:350px;display:text-center;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7qBakFexQTQSp1NkfTsVJQAgfuMxz_R4NxatVN-DalaflT8Cx0KjHFcrh5ztOxWy2NmPJoWQzck5nG77SQTQ1Uvigt839ux5LHeWAimRPY3xqd_RqUg_OjmFKBgY5oTBRy6VV4xmICIiyk19eV9ux3PCOPD9wumLkAfnxmEnAbOUdRCCBrJjyMi86bU/w640-h400/Sensi-ff-Headshot.webp">
 ## 💡 Por Que Escolher Nosso Tool?  
 ✅ **Ferramenta de sensibilidade mais usada no BR**  
 ✅ **Atualizações diárias** contra patches da Garena  
